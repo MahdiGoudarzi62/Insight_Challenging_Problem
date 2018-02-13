@@ -1,0 +1,5 @@
+*.ipynb
+itcont.db
+repeat_donars.txt
+run.sh
+src/__pycache__/
